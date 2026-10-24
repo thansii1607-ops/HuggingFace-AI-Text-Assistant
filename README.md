@@ -1,6 +1,9 @@
 # 🤖 Hugging Face AI Text Assistant
 
 An AI-powered web application built using Python, Streamlit, and Hugging Face Transformers. This application provides four useful Natural Language Processing (NLP) features: text summarization, English-to-French translation, sentiment analysis, and question answering.
+ 
+## Live Demo
+ Try the application online:https://huggingface-ai-text-assistant-dcqzw7v7ocwaith8zg9mpt.streamlit.app/
 
 ##  Features
 
